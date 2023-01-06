@@ -1,0 +1,18 @@
+p{
+    color: rgb(90, 63, 76);
+    background-color: aqua;
+    background-image:url(r.jpg) ;
+}
+
+.amr{
+    color: rgb(243, 12, 12);
+}
+
+*{
+    background-image: url(r.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+h2{
+    text-align: center;
+}
